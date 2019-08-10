@@ -1,6 +1,6 @@
 # Python-beginners-tasks
 def area_circle(radius):
-	pi = 3.14
-	area = pi*radius**2
-	return area
+  pi = 3.14
+  area = pi*radius**2
+  return area
 print(area_circle(3))
