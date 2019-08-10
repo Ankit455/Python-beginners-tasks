@@ -1,0 +1,5 @@
+# Python-beginners-tasks
+from maths import *
+r = int(input(" Enter the radius of the circle : "))
+area = pi*r**2
+print(" Area of the circle : ",area)
